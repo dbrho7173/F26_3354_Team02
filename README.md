@@ -27,4 +27,8 @@ Anirudh Devatha - Database and Deployment Developer
 Project Status
 Currently under development for Fall 2026.
 
-Command to run the unit test code: **python -m pytest -v**
+Command to run the unit test code: 
+
+1.) First install python onto your computer.
+2.) Next download pytest using: **pip install pytest**
+3.) Finally run this to actually run the tests: **python -m pytest -v**
