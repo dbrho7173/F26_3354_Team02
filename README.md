@@ -26,3 +26,5 @@ Anirudh Devatha - Database and Deployment Developer
 
 Project Status
 Currently under development for Fall 2026.
+
+Command to run the unit test code: **python -m pytest -v**
